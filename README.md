@@ -1,5 +1,5 @@
 <h1>
-Nearest Neighbor
+Algorithms: Nearest Neighbor (Divide-and-Conquer / Brute-Force)
 </h1>
 
 
