@@ -70,7 +70,7 @@ Output file: <br />
   Example:  for calling the divide and conquer algorithm (-dc) using the input
             file name of 'input\_10.txt', the output file name would be
             
-                input\_10\_distance.txt
+                input_10_distance.txt
             
    and the information contained in the file would be:
             
